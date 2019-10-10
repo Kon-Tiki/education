@@ -1,11 +1,16 @@
 Ориентироваца на лекции "Технострим Mail.Ru Group".
 +GitHub установлен и настроен,
 	использование изучено до начального уровня.
-+Maven установлен, изучена начальная логика применения.
--Определить шаблон Maven проекта для Android приложения,
-	расположить в git репозитории.
--Определить IDE разработки Android приложений на Linux.
++Maven установлен, но не нужен)), будет использоваца gradle,
+	изучена начальная логика применения Maven.
++IDE разработки Android приложений на Linux, будет Android Studio.
++Configure VM acceleration on Linux
+	https://developer.android.com/studio/run/emulator-acceleration?
+	utm_source=android-studio#vm-linux
+-Первое приложение по лекциям "Технострим Mail.Ru Group".
+-Расположить в git репозитории проект приложения Android.
 -Когда же уже понадобица установка Java SDK ? )))
+201910101923
 
 Проверка синхронизации.
 Кодировка UTF-8.
